@@ -1,3 +1,3 @@
-<img src="https://cutewallpaper.org/21/pixel-wallpaper-gif/Pixel-Wallpaper-animated-GIF-on-Imgur.gif" height="400" width="600">
+<img src="https://cutewallpaper.org/21/pixel-wallpaper-gif/Pixel-Wallpaper-animated-GIF-on-Imgur.gif" height="400" width="1200">
 
 
