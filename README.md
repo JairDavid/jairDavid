@@ -5,5 +5,5 @@
 </a> 
 & Go
 <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="16" height="15"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="16" height="16"/>
 </a>
