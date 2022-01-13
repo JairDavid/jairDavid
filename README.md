@@ -9,11 +9,7 @@
 :star2:  I love programming but I hate it at same time
   
 👯 I’m looking to collaborate with other developers
-  
-🥅 2022 Goals: Contribute to Open Source projects
    
-<br/>
-  
 ### 📱Connect with me:
    
 [<img align="center" alt="Twitter" width="100px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
