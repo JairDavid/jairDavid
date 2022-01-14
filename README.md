@@ -6,10 +6,9 @@
     
 🌱 I’m currently learning Elixir <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"></a><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="25" height="15"/> 
   
-:star2:  I love programming but I hate it at same time
-  
 👯 I’m looking to collaborate with other developers
-   
+  
+  
 ### 📱Connect with me:
    
 [<img align="center" alt="Twitter" width="100px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
