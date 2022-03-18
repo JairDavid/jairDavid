@@ -3,8 +3,6 @@
   
 
 ## Hey there 👋!   
-    
-🌱 I’m currently learning Elixir <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"></a><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="25" height="15"/> 
   
 ### 📱Connect with me:
    
