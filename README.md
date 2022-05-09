@@ -1,15 +1,11 @@
 
 <div style="text-align:center" align="center">
   
-
-## Hey there 👋!   
-  
-### 📱Connect with me:
+### 👋 Hey there! Connect with me:
    
 [<img align="center" alt="Twitter" width="100px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="center" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-<br/>
 <br/>
 
 [twitter]: https://twitter.com/vasquez0923
