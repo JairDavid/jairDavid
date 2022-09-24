@@ -8,7 +8,7 @@
 
 <br/>
 
-[twitter]: https://twitter.com/vasquez0923
+[twitter]: https://twitter.com/___yiro
 [linkedin]: https://www.linkedin.com/in/jair-vasquez-4a96a8217/
 </div>
 <div style="text-align:center" align="center">
